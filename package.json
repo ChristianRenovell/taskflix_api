@@ -1,0 +1,30 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "curso basico nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.babel.es:4433/joaquin.ferreira/curso-node-basico.git"
+  },
+  "author": "Joaquin",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.1",
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.3.3",
+    "nodemon": "^2.0.22",
+    "winston": "^3.9.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

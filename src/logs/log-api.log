@@ -1,0 +1,38 @@
+[2023-06-19T15:17:29.778Z] info: Server on port 3000
+[2023-06-19T15:17:33.298Z] error: 
+[2023-06-19T15:17:56.784Z] info: Server on port 3000
+[2023-06-19T15:18:02.986Z] error: []
+[2023-06-19T15:18:17.842Z] info: Server on port 3000
+[2023-06-19T15:18:25.290Z] info: []
+[2023-06-19T15:18:28.440Z] info: [{"id":6,"user_id":1,"type":"bug","priority":"high","description":"edrgfdsfsdf","on_delete":null}]
+[2023-06-19T15:18:53.471Z] info: Server on port 3000
+[2023-06-19T15:19:12.134Z] info: Server on port 3000
+[2023-06-19T15:22:34.160Z] info: Server on port 3000
+[2023-06-19T15:23:00.800Z] info: Server on port 3000
+[2023-06-19T15:25:15.027Z] info: Server on port 3000
+[2023-11-24T14:02:08.240Z] info: Server on port 3000
+[2024-02-07T19:18:17.037Z] info: Server on port 3000
+[2024-02-07T19:19:01.674Z] info: Server on port 3000
+[2024-02-07T19:19:19.160Z] info: Server on port 3000
+[2024-02-07T19:19:54.076Z] info: Server on port 3000
+[2024-02-07T19:20:04.720Z] info: Server on port 3000
+[2024-02-07T19:20:53.649Z] info: Server on port 3000
+[2024-02-07T19:22:51.298Z] error: Table 'railway.TASKS' doesn't exist
+[2024-02-07T19:22:51.309Z] info: undefined
+[2024-02-07T19:23:30.028Z] info: Server on port 3000
+[2024-02-07T19:29:02.132Z] info: Server on port 3000
+[2024-02-07T19:29:49.013Z] info: Server on port 3000
+[2024-02-07T19:39:14.690Z] info: Server on port 3000
+[2024-02-07T19:40:45.587Z] info: []
+[2024-02-07T19:40:52.540Z] info: []
+[2024-02-07T19:41:15.988Z] info: []
+[2024-02-07T19:41:32.212Z] info: []
+[2024-02-07T19:41:33.996Z] info: []
+[2024-02-07T19:42:44.804Z] info: []
+[2024-02-07T19:43:49.026Z] info: Server on port 3000
+[2024-02-07T19:44:51.552Z] info: Tarea 3 guarda correctamente: {"fieldCount":0,"affectedRows":0,"insertId":0,"info":"Rows matched: 0  Changed: 0  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":0}
+[2024-02-07T19:45:28.801Z] info: Tarea 3 guarda correctamente: {"fieldCount":0,"affectedRows":0,"insertId":0,"info":"Rows matched: 0  Changed: 0  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":0}
+[2024-02-07T19:45:57.043Z] info: Tarea 4 guarda correctamente: {"fieldCount":0,"affectedRows":1,"insertId":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":1}
+[2024-02-07T19:46:12.094Z] info: Tarea 4 guarda correctamente: {"fieldCount":0,"affectedRows":1,"insertId":0,"info":"Rows matched: 1  Changed: 1  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":1}
+[2024-02-07T19:47:42.162Z] info: Server on port 3000
+[2024-02-07T19:48:06.041Z] info: Server on port 3000
