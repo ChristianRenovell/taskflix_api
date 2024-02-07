@@ -19,7 +19,8 @@ user.registration = (req, res) => {
     email: data.email,
     password: data.password
   }
-  const token = jwt.generarToken(payload);
+  //const token = jwt.generarToken(payload);
+  const token = 'TODO implement Token';
   data.token = token;
   req.getConnection((err, conn) => {
     if (err) res.json(err);
